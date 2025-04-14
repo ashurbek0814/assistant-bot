@@ -9,7 +9,7 @@ import aiohttp
 import re  # Импортируем модуль для регулярных выражений
 
 # --- Настройки ---
-TOKEN = "7832073950:AAGjECoejFNujp2yjBLLkuPM5SV7dlXr1Xk"  # Замените на свой токен
+TOKEN = ""  # Замените на свой токен
 WEATHER_API_KEY = "c529daafe7ba8400e57973d17aab48e4"  # Замените на свой API-ключ OpenWeatherMap
 NEWS_API_KEY = "08e9a5e7b28c402cb2a5656124e82611"  # Замените на свой API-ключ NewsAPI
 
